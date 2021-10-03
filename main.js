@@ -1,3 +1,3 @@
-for (let i = 0; i < 10; i++) {
-    if (i % 2 === 0) console.log(i)
+for (let a = 0; a < 10; a++) {
+    if (a % 2 === 0) console.log(a)
 }
